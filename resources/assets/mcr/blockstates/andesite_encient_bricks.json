@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "normal":{
+            "model": "mcr:andesite_encient_bricks"
+        }
+    }
+}

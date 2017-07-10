@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "mcr:blocks/layered_bricks/granite"
+    }
+}

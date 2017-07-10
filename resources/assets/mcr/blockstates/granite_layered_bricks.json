@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "normal":{
+            "model": "mcr:granite_layered_bricks"
+        }
+    }
+}

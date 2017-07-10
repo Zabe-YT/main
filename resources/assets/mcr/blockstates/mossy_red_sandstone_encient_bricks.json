@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "normal":{
+            "model": "mcr:mossy_red_sandstone_encient_bricks"
+        }
+    }
+}

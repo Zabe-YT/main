@@ -1,0 +1,15 @@
+{
+  "modListVersion": 1.0,
+  "modList": [{
+    "modid": "mcr",
+    "name": "Re-Crafted",
+    "description": " I did the thing and added the junk",
+    "version": "1.0",
+    "mcversion": "1.10.2",
+    "authorList": ["Gabe Stark"],
+    "url": "https://www.youtube.com/user/starkhome",
+    "credits": "I meme'd it",
+    "requiredMods": [ "Forge" ],
+    "useDependencyInformation": true
+  }]
+}

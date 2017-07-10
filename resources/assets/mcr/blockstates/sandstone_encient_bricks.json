@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "normal":{
+            "model": "mcr:sandstone_encient_bricks"
+        }
+    }
+}

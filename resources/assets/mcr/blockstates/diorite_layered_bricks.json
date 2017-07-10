@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "normal":{
+            "model": "mcr:diorite_layered_bricks"
+        }
+    }
+}

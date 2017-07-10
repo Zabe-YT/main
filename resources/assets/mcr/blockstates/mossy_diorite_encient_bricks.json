@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "normal":{
+            "model": "mcr:mossy_diorite_encient_bricks"
+        }
+    }
+}

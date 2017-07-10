@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "normal":{
+            "model": "mcr:mossy_andesite_encient_bricks"
+        }
+    }
+}

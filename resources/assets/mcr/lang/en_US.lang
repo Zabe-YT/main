@@ -1,0 +1,52 @@
+item.rock.name=Rock
+item.dust.name=Dust
+item.red_dust.name=Red Dust
+item.diorite_chunk.name=Diorite Chunk
+item.granite_chunk.name=Granite Chunk
+item.andesite_chunk.name=Andesite Chunk
+
+item.mold.empty.name=Mold: Empty
+item.mold.chiseled1.name=Mold: Chiseled
+item.mold.chiseled2.name=Mold: Chiseled
+item.mold.chiseled3.name=Mold: Chiseled
+item.mold.encient_bricks.name=Mold: Encient Bricks
+item.mold.layered_bricks.name=Mold: Layered Bricks
+item.mold.cobbled.name=Mold: Cobbled
+item.mold.smooth.name=Mold: Smooth
+
+tile.stone_cutter.name=Stone Cutter
+
+tile.cobbled_sandstone.name=Cobbled Sandstone
+tile.mossy_cobbled_sandstone.name=Mossy Cobbled Sandstone
+tile.sandstone_layered_bricks.name=Sandstone Layered Bricks
+tile.sandstone_encient_bricks.name=Sandstone Encient Bricks
+tile.mossy_sandstone_encient_bricks.name=Mossy Sandstone Encient Bricks
+tile.carved_sandstone.name=Chiseled Sandstone
+
+tile.cobbled_diorite.name=Cobbled diorite
+tile.mossy_cobbled_diorite.name=Mossy Cobbled diorite
+tile.diorite_layered_bricks.name=diorite Layered Bricks
+tile.diorite_encient_bricks.name=diorite Encient Bricks
+tile.mossy_diorite_encient_bricks.name=Mossy diorite Encient Bricks
+tile.carved_diorite.name=Chiseled Diorite
+
+tile.cobbled_granite.name=Cobbled Granite
+tile.mossy_cobbled_granite.name=Mossy Cobbled Granite
+tile.granite_layered_bricks.name=Granite Layered Bricks
+tile.granite_encient_bricks.name=Granite Encient Bricks
+tile.mossy_granite_encient_bricks.name=Mossy Granite Encient Bricks
+tile.carved_granite.name=Chiseled Granite
+
+tile.cobbled_andesite.name=Cobbled Andesite
+tile.mossy_cobbled_andesite.name=Mossy Cobbled Andesite
+tile.andesite_layered_bricks.name=Andesite Layered Bricks
+tile.andesite_encient_bricks.name=Andesite Encient Bricks
+tile.mossy_andesite_encient_bricks.name=Mossy Andesite Encient Bricks
+tile.carved_andesite.name=Chiseled Andesite
+
+tile.cobbled_red_sandstone.name=Cobbled Red Sandstone
+tile.mossy_cobbled_red_sandstone.name=Mossy Cobbled Red Sandstone
+tile.red_sandstone_layered_bricks.name=Red Sandstone Layered Bricks
+tile.red_sandstone_encient_bricks.name=Red Sandstone Encient Bricks
+tile.mossy_red_sandstone_encient_bricks.name=Mossy Red Sandstone Encient Bricks
+tile.carved_red_sandstone.name=chiseled Red Sandstone
